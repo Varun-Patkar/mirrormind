@@ -4,7 +4,7 @@ MirrorMind is a web application that allows users to create, customize, and chat
 
 ## Live Demo & Video
 
-- **Try MirrorMind Live:** [Link to Deployed Webapp - Placeholder]
+- **Try MirrorMind Live:** [https://mirrormind-varun.vercel.app/](https://mirrormind-varun.vercel.app/)
 - **Watch the Demo:** [Link to YouTube Demo Video - Placeholder]
 
 ## Overview
