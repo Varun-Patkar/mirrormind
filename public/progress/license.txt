@@ -1,0 +1,11 @@
+Model Information:
+* title:	V for Vendetta - Anonymous Mask
+* source:	https://sketchfab.com/3d-models/v-for-vendetta-anonymous-mask-e8a690b21b864e49aab97fb773c8b39a
+* author:	pixelAlp (https://sketchfab.com/pixelAlp)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "V for Vendetta - Anonymous Mask" (https://sketchfab.com/3d-models/v-for-vendetta-anonymous-mask-e8a690b21b864e49aab97fb773c8b39a) by pixelAlp (https://sketchfab.com/pixelAlp) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
