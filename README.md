@@ -77,7 +77,7 @@ mirrormind/
 
 1.  **Clone the repository:**
     ```bash
-    git clone [<repository-url> # Replace <repository-url> with the actual URL if available](https://github.com/Varun-Patkar/mirrormind.git)
+    git clone https://github.com/Varun-Patkar/mirrormind.git
     cd mirrormind
     ```
 2.  **Install dependencies:**
